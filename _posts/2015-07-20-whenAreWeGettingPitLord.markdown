@@ -7,7 +7,7 @@ tags:
  - The International
  - New Heroes
 ---
-![Warlock used to have a weak turn 7 until he came around](http://johnygall.github.io/assets/articleImages/pitlord.png)
+![Warlock used to have a weak turn 7 until he came around](http://dotahook.github.io/assets/articleImages/pitlord.png)
 
 With TI5 around the corner, many people expect the release of one of the two heroes that have yet to be added to the game. At TI4 we saw the release of Techies, a hero that quickly found its place at the bottom of the hero list sorted by win rate with something around 40%. In a year’s time, he has been buffed repeatedly until he is where he is today: one of the most popular (and hated) heroes in the game and with a win rate hovering around 53%. As to what possessed Icefraud to buff the hero to the point where EG.Sumail immediately conceded defeat after queuing against a skilled Techies player and proceeded to feed until he lost, we will never know. The point is, don’t expect much from the new heroes. Give them a little time and a few buffs, and suddenly you’ll be groaning every time you see one on the enemy team.
 
