@@ -11,7 +11,10 @@ tags:
  - Earthshaker
 ---
 
-Players typically shy away from picking supports in lower MMR solo queue, and not without good reason. Supports are popularly thought of as unable to turn a game around in the face of incompetent teammates, and players rightly believe that by picking support they are dooming themselves to watch their towers fall as their carries go 0/10 while declaring “noob support”. Hence, solo queue games with no courier and no wards are despair-inducingly common in the trench as a team of five carries compete among themselves for the farm they need. While a support hero will never be able to 1v5 the enemy team like a farmed carry, there are a handful of supports that can have an outsize impact on the game (even with terrible teammates). So think twice before deciding to be your team’s fifth carry, the key to victory may lie in selflessly supporting your comrades. 
+![Three High Impact Supports](http://dotahook.github.io/assets/articleImages/ThreeSupportsListing.jpeg)
+
+
+Players typically shy away from picking supports in lower MMR solo queue, and not without good reason. Supports are popularly thought of as unable to turn a game around in the face of incompetent teammates, and players rightly believe that by picking support they are dooming themselves to watch their towers fall as their carries go 0/10 while declaring “noob support”. Hence, solo queue games with no courier and no wards are despair-inducingly common in the trench as a team of five carries compete among themselves for the farm they need. While a support hero will never be able to 1v5 the enemy team like a farmed carry, there are a handful of supports that can have an outsize impact on the game (even with terrible teammates). So think twice before deciding to be your team’s fifth carry, the key to victory may lie in selflessly supporting your comrades.
 
 Here are three supports that can get solo kills, swing a teamfight, and are new player friendly to boot.
 
