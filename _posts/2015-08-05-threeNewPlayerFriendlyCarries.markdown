@@ -13,7 +13,7 @@ tags:
 
 ![Three New Player Friendly Carries](http://dotahook.github.io/assets/articleImages/threeCariesListing.jpg)
 
-Picking a carry is often the first choice of players looking to increase their MMR and this choice is a logical one. When played correctly, carries have the potential to completely dominate the game, as the Youtube videos of Miracle destroying his opponents can attest. It is however, extremely difficult to play carries effectively due to their relative weakness in the early game. To overcome this weakness carries need a huge amount of farm, which comes from last hitting, getting kills, and dying infrequently(or not at all). None of this is easy.
+A carry is often the first choice of players looking to increase their MMR and this choice is a logical one. When played correctly, carries have the potential to completely dominate the game, as the Youtube videos of Miracle destroying his opponents can attest. It is however, extremely difficult to play carries effectively due to their relative weakness in the early game. To overcome this weakness carries need a huge amount of farm, which comes from last hitting, getting kills, and dying infrequently(or not at all). None of this is easy.
 
 With that said, some carries are more forgiving than others and are thus suited to new players. Here are three heroes that are ideal starting points for the aspiring carry player.
 
@@ -39,4 +39,4 @@ If you’d like to begin learning Drow you can find our guide [here.](https://do
 
 Viper is a tanky ranged carry who has a variety of poison-based abilities that are especially well suited to new players. Viper’s orb effect, Poison Attack, deals damage over time and slows the enemy. Poison Attack combined with one of Viper’s passives, Nethertoxin, makes last hitting extremely easy.This ease of last hitting allows Viper to farm much faster than other carries and then to dominate the game. Viper’s other passive, Corrosive Skin, damages and slows enemy heroes who attack him while also increasing his magic resistance, all of which makes viper very hard to kill.
 
-If you’d like to try Viper our guide is [here].(https://dotahook.com/guides?hero=viper)
+If you’d like to try Viper our guide is [here.](https://dotahook.com/guides?hero=viper)
