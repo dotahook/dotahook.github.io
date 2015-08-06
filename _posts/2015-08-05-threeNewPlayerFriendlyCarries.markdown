@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Three High Impact Supports For New Players"
+title:  "Three New Player Friendly Carries"
 date:   2015-08-05 02:05:58
 tags:
  - Carry
