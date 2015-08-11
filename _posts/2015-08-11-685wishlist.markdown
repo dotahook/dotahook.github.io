@@ -24,6 +24,7 @@ The prevalence of anti-armor items (notably Solar Crest) makes chewing through R
 #Items
 ###Bloodstone
 ![Bloodstone](https://dotahook.com/assets/itemImages/bloodstone_lg.png)
+
 - Recipe cost increased from 900 to 1000
 - Starts with 6 charges instead of 8
 
@@ -31,12 +32,14 @@ Delays snowballing mids slightly and makes them easier to control later on. Nerf
 
 ###Glimmer Cape
 ![Glimmer Cape](https://dotahook.com/assets/itemImages/glimmer_cape_lg.png)
+
 - Cast range reduced from 900 to 700
 
 This item is really strong so we think its utility needs to be toned down ever so slightly.
 
 ###Heaven’s Halberd
 ![Heaven's Halberd](https://dotahook.com/assets/itemImages/heavens_halberd_lg.png)
+
 - Disarm now lasts 4 seconds for both ranged and melee targets
 - Can no longer be purged by Spell Immunity
 
@@ -45,6 +48,7 @@ This item has been long ignored in many games for good reason; its late game uti
 #Heroes
 ###Alchemist
 ![Alchemist](https://dotahook.com/assets/heroPortraits/alchemist_full.png)
+
 - Strength gain increased from 1.8 to 1.9
 - Base armor increased from 0 to 1
 - Acid Spray (Q) now applies a 10%/15%/20%/25% movement speed slow to the target radius for the duration
@@ -53,6 +57,7 @@ Alchemist is so weak right now that he could use modest buffs in everything. Wha
 
 ###Bloodseeker
 ![Bloodseeker](https://dotahook.com/assets/heroPortraits/bloodseeker_full.png)
+
 - Thirst (E) is no longer global. Now only affects Bloodseeker if enemy heroes within a radius of 3000 are injured
 - Rupture (R) duration now scales from 10/12/14 seconds
 
@@ -62,11 +67,14 @@ Our always popular Bloodseeker guide is [here](https://dotahook.com/guides?hero=
 
 ###Chaos Knight
 ![Chaos Knight](https://dotahook.com/assets/heroPortraits/chaos_knight_full.png)
+
 - Phantasm (R) cooldown reduced from 140 to 140/130/120
 
 This hero is too reliant on his illusions to be a proper carry. With such a long cooldown, he’s useless for a substantial amount of time. With greater uptime later on he can begin to dream of competing with Naga and Ebolancer
 
 ###Doom
+![Doom](https://dotahook.com/assets/heroPortraits/doom_bringer_full.png)
+
 - Base armor increased from -1 to 0
 - Decreased cast point from 0.5 to 0.4
 - Doom (R) now lowers target’s magic resistance by 10%/20%/30%
@@ -75,6 +83,7 @@ Doom is also all around bad now that his ultimate isn’t anywhere near as stron
 
 ###Earth Spirit
 ![Earth Spirit](https://dotahook.com/assets/heroPortraits/earth_spirit_full.png)
+
 - Added to Captain’s Mode
 HAHAHAHA
 
@@ -82,6 +91,7 @@ Want to learn how to slay your enemies with rocks? Our Earth Spirit guide is [he
 
 ###Elder Titan
 ![Elder Titan](https://dotahook.com/assets/heroPortraits/elder_titan_full.png)
+
 - Earth Splitter (R) crack radius increased from 300 to 400 and now applies Break
 - Aghanim’s upgraded Earth Splitter (R) damage type changed from Physical/Magical to Pure
 
@@ -91,6 +101,7 @@ You can find our new Elder Titan guide [here](https://dotahook.com/guides?hero=e
 
 ###Gyrocopter
 ![Gyrocopter](https://dotahook.com/assets/heroPortraits/gyrocopter_full.png)
+
 - Rocket Barrage (Q) mana cost increased from 90 to 100
 - Call Down (R) Missile One Damage rescaled from 250/300/350 to 200/250/300
 - Missile One move speed slow reduced from 30% to 25%
@@ -101,12 +112,14 @@ You can find our Gyrocopter guide [here](https://dotahook.com/guides?hero=gyroco
 
 ###Kunkka
 ![Kunka](https://dotahook.com/assets/heroPortraits/kunkka_full.png)
+
 - Ghostship (R) stun duration increased from 1.4 to 2.0 and ship radius increased from 425 to 500. Aghanim’s Scepter upgrade changes damage type from Magical to Pure.
 
 More pure damage for everyone!
 
 ###Lina
 ![Lina](https://dotahook.com/assets/heroPortraits/lina_full.png)
+
 - Aghanim’s Scepter upgraded Laguna Blade (R) Pure damage reduced from 450/675/950 to 400/600/850
 Except Lina, because getting instagibbed through BKB is just sad.
 
@@ -114,6 +127,7 @@ You can use our lina guide to get Aghanim's and instagib your foes. It's [here](
 
 ###Lifestealer
 ![Lifestealer](https://dotahook.com/assets/heroPortraits/life_stealer_full.png)
+
 - Rage (Q) is now Lifestealer’s ultimate ability. It now reduces all incoming damage by 20%/30%/40% for the duration, which has been increased from 3/4/5/6 to 5/6/7
 - Infest (R) is now a regular ability and its damage has been rescaled from 150/275/400 to 100/150/200/250
 
@@ -123,6 +137,7 @@ If you'd like to learn Lifestealer before he gets buffed you can find our guide 
 
 ###Leshrac
 ![Leshrac](https://dotahook.com/assets/heroPortraits/leshrac_full.png)
+
 - Intelligence gain reduced from 3.0 to 2.8
 - Lightning Storm (E) mana cost increased from 90/100/110/120 to 100/110/120/130
 - Lightning Storm (E) cast range reduced from 800 to 700
@@ -133,6 +148,7 @@ Leshrac is really strong right now! check out [our guide](https://dotahook.com/g
 
 ###Lone Druid
 ![Lone Druid](https://dotahook.com/assets/heroPortraits/lone_druid_full.png)
+
 - Spirit Bear’s Entangling Claws damage type changed from Physical to Pure
 - True Form (R) now increases magic resistance of Lone Druid and Spirit Bear by 25%
 
@@ -140,6 +156,7 @@ Once a great pusher, he’s just too slow to come online to be relevant. At leas
 
 ###Mirana
 ![Mirana](https://dotahook.com/assets/heroPortraits/mirana_full.png)
+
 - Agility gain increased from 2.75 to 3.0
 - Projectile speed increased from 900 to 1000
 
@@ -154,6 +171,7 @@ When are we getting Pit Lord? [We tried to figure that out a while back](http://
 
 ###Puck
 ![Puck](https://dotahook.com/assets/heroPortraits/puck_full.png)
+
 - Waning Rift (W) now slows enemies in its radius by 10%/20%/30%/40%
 - Dream Coil (R ) now disarms all heroes in the coil latch radius for 1/2/3 seconds. Disarm cannot be purged by Spell Immunity.
 
@@ -161,6 +179,7 @@ Puck’s damage is so lackluster that we felt he needs something to compensate. 
 
 ###Queen of Pain
 ![Queen of Pain](https://dotahook.com/assets/heroPortraits/queenofpain_full.png)
+
 - Sonic Wave (R) damage type changed from Pure to Magical. Aghanim’s Scepter upgrade now changes damage type from Magical to Pure.
 
 Giving her Pure damage right off the bat seems a little generous, so we’d like to undo that.
@@ -168,7 +187,8 @@ Giving her Pure damage right off the bat seems a little generous, so we’d like
 Our Queen of Pain guide is [here](https://dotahook.com/guides?hero=queenOfPain)
 
 ###Techies
-![Techies](https://dotahook.com/assets/heroPortraits/queenofpain_full.png)
+![Techies](https://dotahook.com/assets/heroPortraits/techies_full.png)
+
 - Land Mines (Q) and Remote Mines (R) now have a 10 gold bounty
 
 Supports should be compensated for playing minesweeper so that they are incentivized to buy more sentries.
@@ -176,7 +196,8 @@ Supports should be compensated for playing minesweeper so that they are incentiv
 Wanna blow the enemy team to pieces? Our Techies guide is [here](https://dotahook.com/guides?hero=techies)
 
 ###Terrorblade
-![Terrorblade](https://dotahook.com/guides?hero=terrorblade)
+![Terrorblade](https://dotahook.com/assets/heroPortraits/terrorblade_full.png)
+
 - Increased Reflection (Q) cast range from 325 to 400
 - Decreased Conjure Image (W) illusion damage taken from 425% to 375%
 
@@ -186,6 +207,7 @@ Our Terrorblade guide is [here](https://dotahook.com/guides?hero=terrorblade)
 
 ###Timbersaw
 ![Timbersaw](http://hydra-media.cursecdn.com/dota2.gamepedia.com/8/81/Timbersaw.png?version=610b4fabbb580f5105d6c15fc8366060)
+
 - Increase Intelligence gain from 2.4 to 2.6
 - Timber Chain (W) mana cost decreased from 60/70/80/90 to 40/50/60/70
 - Aghanim’s Scepter-upgraded Chakram (R) now only partially blocked by Spell Immunity. Spell Immune enemy units still take damage, but are immune to the slow
@@ -194,6 +216,7 @@ With the nerfs to Bloodstone, Timbersaw will need a lot of help since he’s alr
 
 ###Tusk
 ![Tusk](https://dotahook.com/assets/heroPortraits/tusk_full.png)
+
 - Can no longer cast spells while in Snowball (W)
 
 Most people agree that casting Ice Shards while in Snowball is too good.
