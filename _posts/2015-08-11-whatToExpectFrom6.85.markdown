@@ -8,20 +8,19 @@ tags:
  - Meta
  - 6.85
 ---
-![6.85](http://dotahook.github.io/assets/articleImages/685.jpg)
 
 With TI5 out of the way, everyone is eagerly (or not so eagerly for Leshrac pickers) waiting for a certain frigid amphibian to close the book on an era dominated by magical nukes and snowballing mid-laners. But in general we’re seeing a large number of heroes reaching competitive viability, so we think the next patch will avoid any drastic changes.
 
 Here’s what changes we at Dotahook would like to see in 6.85 in hopes of reducing the prevalence of nukers and making some obscure heroes like Kunkka and Elder Titan more impactful. If we didn’t include a hero here, it’s probably because either we (a) don’t want the hero to be picked more, or because (b) this post was getting too long. Death Prophet, for instance, is quite weak right now, but we skipped over her because seeing her played competitively about as exciting as watching paint dry.
 
-##Map
+#Map
 ###Roshan
 - Armor bonus per 4 minutes increased from 0.7 to 1.0
 - Roshan now enrages after losing half of his max health, increasing total armor by 25% (including armor gained from Strength of the Immortal) and amplifying all damage he deals by 25%. This buff cannot be dispelled. He only gains the ability to enrage after the 30-minute mark.
 
 The prevalence of anti-armor items (notably Solar Crest) makes chewing through Roshan extremely easy. Games that go late usually mean that one team can blow up Roshan in a matter of seconds. It’s embarrassing. Let the poor bastard put up a fight.
 
-##Items
+#Items
 ###Bloodstone
 - Recipe cost increased from 900 to 1000
 - Starts with 6 charges instead of 8
@@ -39,7 +38,7 @@ This item is really strong so we think its utility needs to be toned down ever s
 
 This item has been long ignored in many games for good reason; its late game utility is nonexistent when everyone has BKBs. With these changes, it can still make a difference when the game goes late.
 
-##Heroes
+#Heroes
 ###Alchemist
 - Strength gain increased from 1.8 to 1.9
 - Base armor increased from 0 to 1
@@ -137,13 +136,13 @@ Giving her Pure damage right off the bat seems a little generous, so we’d like
 
 Supports should be compensated for playing minesweeper so that they are incentivized to buy more sentries.
 
-####Terrorblade
+###Terrorblade
 - Increased Reflection (Q) cast range from 325 to 400
 - Decreased Conjure Image (W) illusion damage taken from 425% to 375%
 
 Yeah, this one’s probably not going to happen.
 
-####Timbersaw
+###Timbersaw
 - Increase Intelligence gain from 2.4 to 2.6
 - Timber Chain (W) mana cost decreased from 60/70/80/90 to 40/50/60/70
 - Aghanim’s Scepter-upgraded Chakram (R) now only partially blocked by Spell Immunity. Spell Immune enemy units still take damage, but are immune to the slow
