@@ -8,6 +8,7 @@ tags:
  - Meta
  - 6.85
 ---
+![Leshrac](https://dotahook.com/assets/heroPortraits/leshrac_full.png)
 
 With TI5 out of the way, everyone is eagerly (or not so eagerly for Leshrac pickers) waiting for a certain frigid amphibian to close the book on an era dominated by magical nukes and snowballing mid-laners. But in general we’re seeing a large number of heroes reaching competitive viability, so we think the next patch will avoid any drastic changes.
 
@@ -170,4 +171,4 @@ With the nerfs to Bloodstone, Timbersaw will need a lot of help since he’s alr
 
 Most people agree that casting Ice Shards while in Snowball is too good.
 
-Cast spells from Snowball while you still can! Our Tusk guide is [here](https://dotahook.com/guides?hero=tusk) 
+Cast spells from Snowball while you still can! Our Tusk guide is [here](https://dotahook.com/guides?hero=tusk)
