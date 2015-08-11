@@ -50,7 +50,9 @@ Alchemist is so weak right now that he could use modest buffs in everything. Wha
 - Thirst (E) is no longer global. Now only affects Bloodseeker if enemy heroes within a radius of 3000 are injured
 - Rupture (R) duration now scales from 10/12/14 seconds
 
-I don’t think Bloodseeker is OP by any means, but Thirst needs to be dampened to make him a little less of a nuisance in the early game. Rupture can stand to be a little shorter at level 6, too
+I don’t think Bloodseeker is OP by any means, but Thirst needs to be dampened to make him a little less of a nuisance in the early game. Rupture can stand to be a little shorter at level 6, too.
+
+Our always popular Bloodseeker guide is [here](https://dotahook.com/guides?hero=bloodseeker)
 
 ###Chaos Knight
 - Phantasm (R) cooldown reduced from 140 to 140/130/120
@@ -81,6 +83,8 @@ This doesn’t address the many issues this hero has, but we know for certain th
 
 This guy does tons of magic damage and Rocket Barrage is just too spammable. One of them has to go.
 
+You can find our Gyrocopter guide [here](https://dotahook.com/guides?hero=gyrocopter) (check it out before he gets nerfed!)
+
 ###Kunkka
 - Ghostship (R) stun duration increased from 1.4 to 2.0 and ship radius increased from 425 to 500. Aghanim’s Scepter upgrade changes damage type from Magical to Pure.
 
@@ -90,11 +94,15 @@ More pure damage for everyone!
 - Aghanim’s Scepter upgraded Laguna Blade (R) Pure damage reduced from 450/675/950 to 400/600/850
 Except Lina, because getting instagibbed through BKB is just sad.
 
+You can use our lina guide to get Aghanim's and instagib your foes. It's [here](https://dotahook.com/guides?hero=lina)
+
 ###Lifestealer
 - Rage (Q) is now Lifestealer’s ultimate ability. It now reduces all incoming damage by 20%/30%/40% for the duration, which has been increased from 3/4/5/6 to 5/6/7
 - Infest (R) is now a regular ability and its damage has been rescaled from 150/275/400 to 100/150/200/250
 
 Currently one of the worst carries in the game, we think this will make him a little more fun and useful. Plus, we try to make Rage a little stronger against all the Pure damage spam, though we want to avoid making this skill too similar to Ursa’s ultimate.
+
+If you'd like to learn Lifestealer before he gets buffed you can find our guide [here](https://dotahook.com/guides?hero=lifestealer)
 
 ###Leshrac
 - Intelligence gain reduced from 3.0 to 2.8
@@ -102,6 +110,8 @@ Currently one of the worst carries in the game, we think this will make him a li
 - Lightning Storm (E) cast range reduced from 800 to 700
 
 Something like this is almost certainly going to be somewhere in the real patch notes.
+
+Leshrac is really strong right now! check out [our guide](https://dotahook.com/guides?hero=leshrac) to learn how to reduce your foes to their elements!
 
 ###Lone Druid
 - Spirit Bear’s Entangling Claws damage type changed from Physical to Pure
@@ -115,8 +125,12 @@ Once a great pusher, he’s just too slow to come online to be relevant. At leas
 
 Makes carry Mirana more viable and gives her a better reason to go mid.
 
+Even unbuffed Mirana is still a strong carry, our guide will help you
+
 ###Pit Lord
 - Added to All Pick
+
+When are we getting Pit Lord? [We tried to figure that out a while back](http://theblog.dotahook.com/2015/07/20/whenAreWeGettingPitLord/)
 
 ###Puck
 - Waning Rift (W) now slows enemies in its radius by 10%/20%/30%/40%
@@ -130,6 +144,8 @@ Puck’s damage is so lackluster that we felt he needs something to compensate. 
 - Sonic Wave (R) damage type changed from Pure to Magical. Aghanim’s Scepter upgrade now changes damage type from Magical to Pure.
 
 Giving her Pure damage right off the bat seems a little generous, so we’d like to undo that.
+
+Our Queen of Pain guide is [here](https://dotahook.com/guides?hero=queenOfPain)
 
 ###Techies
 - Land Mines (Q) and Remote Mines (R) now have a 10 gold bounty
@@ -153,3 +169,5 @@ With the nerfs to Bloodstone, Timbersaw will need a lot of help since he’s alr
 - Can no longer cast spells while in Snowball (W)
 
 Most people agree that casting Ice Shards while in Snowball is too good.
+
+Cast spells from Snowball while you still can! Our Tusk guide is [here](https://dotahook.com/guides?hero=tusk) 
