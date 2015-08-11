@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What to Expect From 6.85"
+title:  "A Wish List for 6.85"
 date:   2015-08-11 02:05:58
 tags:
  - TI
@@ -71,11 +71,15 @@ Doom is also all around bad now that his ultimate isn’t anywhere near as stron
 - Added to Captain’s Mode
 HAHAHAHA
 
+Want to learn how to slay your enemies with rocks? Our Earth Spirit guide is [here](https://dotahook.com/guides?hero=earthSpirit)
+
 ###Elder Titan
 - Earth Splitter (R) crack radius increased from 300 to 400 and now applies Break
 - Aghanim’s upgraded Earth Splitter (R) damage type changed from Physical/Magical to Pure
 
 This doesn’t address the many issues this hero has, but we know for certain that Earth Splitter is really underwhelming for having such an epic animation. It just requires so much set up that it should have a more punishing effect for the rare occasion someone gets stuck in it.
+
+You can find our new Elder Titan guide [here](https://dotahook.com/guides?hero=elderTitan)
 
 ###Gyrocopter
 - Rocket Barrage (Q) mana cost increased from 90 to 100
@@ -126,7 +130,7 @@ Once a great pusher, he’s just too slow to come online to be relevant. At leas
 
 Makes carry Mirana more viable and gives her a better reason to go mid.
 
-Even unbuffed Mirana is still a strong carry, our guide will help you
+Want to try out Mirana? [Here's our guide](https://dotahook.com/guides?hero=mirana)
 
 ###Pit Lord
 - Added to All Pick
@@ -135,7 +139,6 @@ When are we getting Pit Lord? [We tried to figure that out a while back](http://
 
 ###Puck
 - Waning Rift (W) now slows enemies in its radius by 10%/20%/30%/40%
-
 - Dream Coil (R ) now disarms all heroes in the coil latch radius for 1/2/3 seconds. Disarm cannot be purged by Spell Immunity.
 
 Puck’s damage is so lackluster that we felt he needs something to compensate. Especially Dream Coil, which we always found underwhelming because it’s difficult to use it when you’re losing. We thought this new version still fits with the lore behind the skill because Dream Coil causes enemies to be confused, which we think would prevent them from fighting briefly.
@@ -153,11 +156,15 @@ Our Queen of Pain guide is [here](https://dotahook.com/guides?hero=queenOfPain)
 
 Supports should be compensated for playing minesweeper so that they are incentivized to buy more sentries.
 
+Wanna blow the enemy team to pieces? Our Techies guide is [here](https://dotahook.com/guides?hero=techies)
+
 ###Terrorblade
 - Increased Reflection (Q) cast range from 325 to 400
 - Decreased Conjure Image (W) illusion damage taken from 425% to 375%
 
 Yeah, this one’s probably not going to happen.
+
+Our Terrorblade guide is [here](https://dotahook.com/guides?hero=terrorblade)
 
 ###Timbersaw
 - Increase Intelligence gain from 2.4 to 2.6
